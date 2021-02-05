@@ -1,0 +1,6 @@
+2. Hasil pengujian
+	a. Apabila Angka 1 dan Angka 2 dikosongkan maka aplikasi akan langsung berhenti bekerja
+	b. Apabila Angka 2 saja yang dikosongkan maka aplikasi juga akan langsung berhenti bekerja
+	c. Apabila Angka 2 diisi dengan angka 0, selama Angka 1 diisi maka kalkulasi akan dilakukkan seperti seharusnya, namun apabila yang ditekan adalah tombol bagi maka hasil yang dikeluarkan adalah infinity
+	
+	Yang terjadi adalah NumberFormatException sehingga aplikasi berhenti secara paksa, hal ini disebabkan karena String kosong yang tidak terisi sehingga tidak dapat di"parse" menjadi double. Untuk dapat memperbaiki error tersebut adalah dengan menggunakan try and catch untuk melakukkan pengecekan apakah NumberFormatException terjadi lagi atau tidak dan dapat memberikan angka default "0" apabila string tersebut kosong.
