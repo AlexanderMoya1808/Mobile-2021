@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Week04_28836</string>
+    <string name="isian">Teks yang akan dikirim</string>
+    <string name="btnKirim">Kirim</string>
+    <string name="url">Halaman Website</string>
+    <string name="btnBrowse">Browse</string>
+    <string name="pesanBalik">Jawaban</string>
+    <string name="kirimBalik">Balas</string>
+
+</resources>
