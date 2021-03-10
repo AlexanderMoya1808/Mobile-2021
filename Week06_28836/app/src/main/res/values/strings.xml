@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week06_28836</string>
+    <string name="Button1">Property Animation</string>
+    <string name="Button2">Drawable Animation</string>
+    <string name="Button3">Physics Animation</string>
+    <string name="Fling">Hello\nFling</string>
+    <string name="Spring">Hello\nSpring</string>
+</resources>
