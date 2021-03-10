@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Week05_28836</string>
+    <string name="rect">Rect</string>
+    <string name="oval">Oval</string>
+    <string name="line">Line</string>
+    <string name="path">Path</string>
+</resources>
