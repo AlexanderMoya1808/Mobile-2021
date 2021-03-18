@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AlexanderMoyaHin_28836</string>
+    <string name="app_title">Music Player</string>
+    <string name="profile">profile</string>
+    <string name="logOut">Log Out</string>
+    <string name="nowPlaying">Now Playing</string>
+    <string name="songName">This is Song Name</string>
+    <string name="songArtist">This is Song Artist</string>
+    <string name="durationPlayed">1:28</string>
+    <string name="durationTotal">4:28</string>
+    <string name="name">Alexander Moya Hin</string>
+    <string name="nim">00000028836</string>
+    <string name="classOf">Kelas : BL</string>
+    <string name="errorMessageLogin">Wrong Username Or Password</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_username">username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in_short">Login</string>
+    <string name="fileName">File Name</string>
+    <string name="reference">References : </string>
+    <string name="reference_1">https://www.youtube.com/watch?v=A9rcKZUm0zM</string>
+    <string name="reference_2">https://www.youtube.com/watch?v=bsXaM4G4D_w&amp;list=PLwQLA73lSe1RfjMzbRLoIkcIJBu25FnVJ</string>
+    <string name="reference_3">https://www.youtube.com/watch?v=5N21AJ47aYc&amp;feature=emb_logo</string>
+    <string name="reference_4">https://www.youtube.com/watch?v=7vWoi8j5vL4&amp;feature=emb_logo</string>
+    <string name="reference_5">https://www.youtube.com/watch?v=oh4YOj9VkVE&amp;feature=emb_logo</string>
+
+</resources>
